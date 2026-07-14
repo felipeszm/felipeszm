@@ -1,15 +1,15 @@
 Olá, meu nome é Felipe de Souza Miranda.
 Sou acadêmico de Sistemas de Informação na Universidade Federal de MS.
 
-- Atuo como Desenvolvedor Júnior Fullstack em ambiente corporativo.
-- Tenho interesse por programação voltada para web e integrações.
-- Possuo experiência com PHP, Java, Laravel, React, Python e Node.js.
+- Atuo como Desenvolvedor Fullstack em ambiente corporativo.
+- Atuo com produtos voltados para RHs e consultorias.
+- Possuo experiência com PHP (Symfony, Laravel), Java (Spring, JPA) e JavaScript/React.
 - Por ser acadêmico, sou adepto de metodologias ágeis e boas práticas.
 
-Além de ser devzão PHP...
+Além de ser dev PHP...
   
 - Possuo forte conhecimento de front-end e UI/UX, e aprecio designs customizados.
-- Também tenho projetos acadêmicos e pessoais realizados, sou apreciador de sites customizados e "interfaces diferentonas".
+- Também tenho projetos acadêmicos e pessoais realizados, sou entusiasta de sites customizados e "DIY".
 - Estarei utilizando meu perfil para upar tais projetos.
 - Sou muito fã de metal! 🤘
 
